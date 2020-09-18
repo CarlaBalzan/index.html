@@ -1,0 +1,81 @@
+.nav
+
+{
+	 display: flex;
+	 align-items: center;
+	 height: 60px;
+	 width: 100%;
+    border: 2px solid#444;
+    font-family: arial ;
+}
+
+#conteneur 
+
+{
+	display: flex;
+	justify-content: flex-end;
+}
+
+#conteneur div
+{ 
+
+  margin:0 20px;
+ 
+ }
+
+ #cse-search-box
+ {
+ 	text-align: center;
+ }
+
+ #bouton
+
+ {
+ 	text-align: center;
+ 	margin-bottom: 200px;
+
+
+ }
+
+ #bas
+{
+	display: flex;
+	justify-content: space-between;
+	
+	}
+
+#France
+{
+	margin-bottom: 20px;
+}
+
+#Gauche
+{
+	display: flex;
+	justify-content: flex-start;
+}
+
+#Droite
+
+{
+	display: flex;
+	justify-content: flex-end;
+}
+
+#Gauche p 
+{
+	margin-right:20px;
+}
+
+#Droite p 
+{
+	margin-left:20px;
+}
+
+footer
+{
+	background-color: #F1F2F2;
+	width: 100%;
+	font-family: arial ;
+
+}
